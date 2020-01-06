@@ -1,0 +1,11 @@
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/bin/Debug/netcoreapp3.0/abstraction
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/bin/Debug/netcoreapp3.0/abstraction.deps.json
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/bin/Debug/netcoreapp3.0/abstraction.runtimeconfig.json
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/bin/Debug/netcoreapp3.0/abstraction.runtimeconfig.dev.json
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/bin/Debug/netcoreapp3.0/abstraction.dll
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/bin/Debug/netcoreapp3.0/abstraction.pdb
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/obj/Debug/netcoreapp3.0/abstraction.csprojAssemblyReference.cache
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/obj/Debug/netcoreapp3.0/abstraction.AssemblyInfoInputs.cache
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/obj/Debug/netcoreapp3.0/abstraction.AssemblyInfo.cs
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/obj/Debug/netcoreapp3.0/abstraction.dll
+/Users/codenation/Documents/mastersWork/dotnet/abstraction/obj/Debug/netcoreapp3.0/abstraction.pdb
